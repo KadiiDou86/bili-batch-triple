@@ -4,6 +4,8 @@
 // @version      1.1.2
 // @author       KadiiDou86
 // @description  用 B 站官方一键三连接口，批量给番剧全部剧集三连。带间隔控制与断点续跑。面板按「仅正片」显示实际集数。
+// @downloadURL  https://raw.githubusercontent.com/KadiiDou86/bili-batch-triple/main/bili-batch-triple.user.js
+// @updateURL    https://raw.githubusercontent.com/KadiiDou86/bili-batch-triple/main/bili-batch-triple.user.js
 // @match        https://www.bilibili.com/bangumi/play/*
 // @match        https://www.bilibili.com/bangumi/media/*
 // @grant        none
